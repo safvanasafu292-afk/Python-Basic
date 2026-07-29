@@ -1,0 +1,4 @@
+def greet(name="guset"):
+    print("hello,",name)
+greet()
+greet("Alice")
