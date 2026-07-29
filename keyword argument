@@ -1,0 +1,3 @@
+def introduce(name,age):
+    print(f"my name is {name} and iam {age}year old")
+introduce(age=25,name="jonh")
